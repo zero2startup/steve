@@ -32,13 +32,13 @@
                     <field name="NUM">1800</field>
                   </block>
                 </value>
+                <next>
+                  <block type="movement_forward" id="96"></block>
+                </next>
               </block>
             </next>
           </block>
         </statement>
-        <next>
-          <block type="movement_forward" id="86"></block>
-        </next>
       </block>
     </statement>
   </block>
